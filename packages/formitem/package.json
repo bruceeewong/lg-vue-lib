@@ -1,0 +1,14 @@
+{
+  "name": "lg-form-item",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bruski <bruskiwang@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async-validator": "^3.5.1"
+  }
+}
