@@ -1,6 +1,6 @@
 {
-  "name": "@boo/lg-input",
-  "version": "1.0.0",
+  "name": "boo-lg-input",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   "dependencies": {
     "lodash": "3"
   },
-  "gitHead": "cc0f3f98d9e7222e96f3588a3a8017e57b11ecc9"
+  "gitHead": "0dc984dbff42ccd871b31865948ba51c806276c2"
 }
