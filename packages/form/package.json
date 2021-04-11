@@ -1,5 +1,5 @@
 {
-  "name": "lg-form",
+  "name": "@boo/lg-form",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "cc0f3f98d9e7222e96f3588a3a8017e57b11ecc9"
 }
